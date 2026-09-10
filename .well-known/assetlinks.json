@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.tamy8919.shopsmart",
+    "sha256_cert_fingerprints":
+    ["E3:3F:E6:FC:A2:A0:26:84:4E:87:DE:2E:DB:2A:D3:04:AF:E4:2C:C7:3B:C9:FD:53:83:F8:88:1E:4F:CC:DE:C2"]
+  }
+}]
