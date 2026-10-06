@@ -4,7 +4,8 @@
     "namespace": "android_app",
     "package_name": "com.tamy8919.shopsmart",
     "sha256_cert_fingerprints": [
-      "E9:28:18:AD:94:87:A8:59:F4:5C:97:58:1A:0F:7F:5E:F8:80:91:66:D1:1C:29:5C:20:B0:AF:30:BD:7C:ED:A9"
+      "E9:28:18:AD:94:87:A8:59:F4:5C:97:58:1A:0F:7F:5E:F8:80:91:66:D1:1C:29:5C:20:B0:AF:30:BD:7C:ED:A9",
+      "HIER_DEN_PLAY_FINGERABDRUCK_EINFÜGEN"
     ]
   }
 }]
